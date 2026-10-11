@@ -1,0 +1,16 @@
+# CMake build output
+cmake-build-*/
+
+# Compiled files
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.dylib
+
+# IDE and operating system files
+.idea/
+.DS_Store
+Thumbs.db
